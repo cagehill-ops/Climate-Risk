@@ -1,0 +1,15 @@
+{
+  "name": "texas-grid-under-heat",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A conditional educational summer heat stress test for ERCOT.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test",
+    "check:example": "node scripts/check-example.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs dist"
+  }
+}
