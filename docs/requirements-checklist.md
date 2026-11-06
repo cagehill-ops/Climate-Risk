@@ -16,17 +16,3 @@ This is a delivery tracker for the known project requirements. It is not a subst
 | 10 | independently checkable worked example | Full substitutions are in [worked-example.md](worked-example.md); independent integer-arithmetic script passed, and the separate reviewer recalculated the example with decimal arithmetic without the app engine. Human calculator check remains pending. |
 | 11 | public GitHub Pages URL once authorized | **COMPLETE.** User-authorized publication to [https://cagehill-ops.github.io/Climate-Risk/](https://cagehill-ops.github.io/Climate-Risk/); deployment succeeded and the actual public website passed calculation/control smoke tests. See [publication record](publication-record.md). |
 | 12 | README description/live URL once available/names | README description is present. The README includes the verified live URL. Group-name placeholders still need replacement. |
-| 13 | human review and outside-person usability checklist, not claimed done | Review prompts and record fields are in [manual-actions.md](manual-actions.md). **NOT DONE:** no human acceptance or outside-person feedback is claimed. |
-
-## Human review record
-
-- Course readings / terminology reviewed by: **[name and date pending]**
-- Worked-example calculator check by: **[name, date, matched values or issues pending]**
-- Site acceptance review by: **[group member, date, issues or acceptance pending]**
-- Outside-usability review by: **[reviewer description, date, notes pending]**
-- Hosting account/repository and public publication authorization: **Authorized by the user on November 5, 2026: https://github.com/cagehill-ops/Climate-Risk.**
-- Verified public URL after deployment: [https://cagehill-ops.github.io/Climate-Risk/](https://cagehill-ops.github.io/Climate-Risk/)
-
-Do not replace a pending item with a success claim until the group has completed and recorded it.
-
-Local evidence: [test and review record](test-review-record.md), [independent review](independent-review.md). Human tasks above remain pending; public hosting is complete.
