@@ -1,6 +1,6 @@
 # Test and review record
 
-Verified locally on November 5, 2026. Public deployment and human acceptance are separate, unfinished steps.
+Verified locally on November 5, 2026. Public deployment was subsequently completed and smoke-tested; human acceptance remains separate and unfinished. See [publication-record.md](publication-record.md).
 
 ## Reproducible project checks
 
@@ -38,4 +38,4 @@ All reported scientific/software issues are resolved. See [the independent repor
 
 ## Not yet verified or completed
 
-No public GitHub Pages deployment or public-URL smoke test; human calculator signoff; group acceptance; course-reading alignment; outside-person usability feedback; real assistive-technology evaluation; separate Safari/Firefox testing; or coursework submission is claimed. No one was contacted. See [manual-actions.md](manual-actions.md).
+Public hosting and the focused public-URL smoke test are complete. No human calculator signoff; group acceptance; course-reading alignment; outside-person usability feedback; real assistive-technology evaluation; separate Safari/Firefox testing; or coursework submission is claimed. No one was contacted. See [manual-actions.md](manual-actions.md).

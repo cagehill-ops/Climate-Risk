@@ -4,7 +4,9 @@
 
 **Group members:** [Name 1], [Name 2], [Name 3] — replace these placeholders with the actual names before submission.
 
-> **Publication status: publication authorized to [cagehill-ops/Climate-Risk](https://github.com/cagehill-ops/Climate-Risk); deployment in progress.** The public website URL will be recorded after verification.
+> **Live website: [Texas Grid Under Heat](https://cagehill-ops.github.io/Climate-Risk/)** · [Source repository](https://github.com/cagehill-ops/Climate-Risk)
+
+Published to GitHub Pages and verified in the browser on November 5, 2026 (America/Chicago). Group names and human review items remain pending.
 
 ## What the model does
 
@@ -47,7 +49,7 @@ Stop the development server with Ctrl-C before starting preview, since both use 
 
 The repository includes a GitHub Actions Pages workflow at [`.github/workflows/pages.yml`](.github/workflows/pages.yml). It builds and checks the site on pushes to `main` and on manual workflow dispatch, then deploys the build artifact to GitHub Pages.
 
-Before making a repository public or pushing this project to a public destination, the group must choose the account and repository **and explicitly authorize public publication**. Do not overwrite an existing repository. After an authorized push, a repository administrator may need to set **Settings → Pages → Build and deployment → Source → GitHub Actions**. The deployed address is provided by the Pages deployment; replace this status notice with the verified URL only after deployment and public access have been checked.
+Before making a repository public or pushing this project to a public destination, the group must choose the account and repository **and explicitly authorize public publication**. Do not overwrite an existing repository. After an authorized push, a repository administrator may need to set **Settings → Pages → Build and deployment → Source → GitHub Actions**. This repository is now configured to publish through GitHub Actions. The verified live address is linked above; future pushes to `main` run the same checks and deploy a new build.
 
 ## Project files
 

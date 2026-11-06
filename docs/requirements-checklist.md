@@ -1,6 +1,6 @@
 # Requirements and acceptance checklist
 
-This is a delivery tracker for the known project requirements. It is not a substitute for checking the instructor's exact rubric and course terminology. The site is a local implementation; public hosting and the human review steps below remain incomplete.
+This is a delivery tracker for the known project requirements. It is not a substitute for checking the instructor's exact rubric and course terminology. The site is implemented and publicly hosted on GitHub Pages. Human review steps below remain incomplete.
 
 | # | Requested requirement | Evidence / status |
 | ---: | --- | --- |
@@ -14,8 +14,8 @@ This is a delivery tracker for the known project requirements. It is not a subst
 | 8 | math behind every output | Equations, threshold semantics, display rules, and adaptation benefit are documented in [Methods](methods.md) and the approved [model contract](model-contract.md). Independent scientific/source-level software review passed; lead verified rendered calculations. |
 | 9 | extreme/limiting tests | Automated tests cover equality and domain endpoints, control corners, sensitivity domains, and invalid inputs in `tests/model.test.js`. All 17 tests passed; browser endpoint combinations, presets, reset, intermediate inputs, and navigation-history regression passed. Any additional course-specific checks require group review. |
 | 10 | independently checkable worked example | Full substitutions are in [worked-example.md](worked-example.md); independent integer-arithmetic script passed, and the separate reviewer recalculated the example with decimal arithmetic without the app engine. Human calculator check remains pending. |
-| 11 | public GitHub Pages URL once authorized | **INCOMPLETE.** Workflow is prepared; repository destination, explicit public publication authorization, deployment, and URL verification are pending. |
-| 12 | README description/live URL once available/names | README description is present. Live URL is explicitly marked **NOT PUBLISHED — pending repository destination and explicit publication authorization**. Group-name placeholders still need replacement. |
+| 11 | public GitHub Pages URL once authorized | **COMPLETE.** User-authorized publication to [https://cagehill-ops.github.io/Climate-Risk/](https://cagehill-ops.github.io/Climate-Risk/); deployment succeeded and the actual public website passed calculation/control smoke tests. See [publication record](publication-record.md). |
+| 12 | README description/live URL once available/names | README description is present. The README includes the verified live URL. Group-name placeholders still need replacement. |
 | 13 | human review and outside-person usability checklist, not claimed done | Review prompts and record fields are in [manual-actions.md](manual-actions.md). **NOT DONE:** no human acceptance or outside-person feedback is claimed. |
 
 ## Human review record
@@ -24,9 +24,9 @@ This is a delivery tracker for the known project requirements. It is not a subst
 - Worked-example calculator check by: **[name, date, matched values or issues pending]**
 - Site acceptance review by: **[group member, date, issues or acceptance pending]**
 - Outside-usability review by: **[reviewer description, date, notes pending]**
-- Hosting account/repository and public publication authorization: **[group decision and explicit authorization pending]**
-- Verified public URL after deployment: **[pending]**
+- Hosting account/repository and public publication authorization: **Authorized by the user on November 5, 2026: https://github.com/cagehill-ops/Climate-Risk.**
+- Verified public URL after deployment: [https://cagehill-ops.github.io/Climate-Risk/](https://cagehill-ops.github.io/Climate-Risk/)
 
 Do not replace a pending item with a success claim until the group has completed and recorded it.
 
-Local evidence: [test and review record](test-review-record.md), [independent review](independent-review.md). Public and human tasks above remain pending.
+Local evidence: [test and review record](test-review-record.md), [independent review](independent-review.md). Human tasks above remain pending; public hosting is complete.
